@@ -1,8 +1,17 @@
 # 🚗 MileTracker
 
-**MileTracker** is a full-stack MERN application that allows users to track trips by logging a start and end location, automatically calculating mileage, showing weather at the destination, and exporting trip history as a PDF report.
+**MileTracker** is a full-stack MERN application that allows users to log trips, calculate mileage between locations, view destination weather, and generate downloadable PDF trip reports.
 
-Built for the final project in my full-stack bootcamp, this app uses React, Apollo Client, GraphQL, Node.js, Express, and MongoDB with Mongoose. It also includes JWT authentication, secure API key usage, and continuous deployment through Render and GitHub Actions.
+The project focuses on accurate data handling, API-driven cacluations, and presenting structured trip data in a clear, usable format.
+
+---
+
+## Project Context
+MileTracker was developed as a group capstone project for a full-stack JavaScript bootcamp. The goal was to design and deploy a production-ready application that integrates multiple external data sources, supports authenticated users, and manages structured records over time.
+
+___
+
+## My Contributions
 
 ---
 
